@@ -1,0 +1,6 @@
+p1/
+dataset/
+mrlEyes_2018_01/
+__pycache__/
+*.pyc
+.env
